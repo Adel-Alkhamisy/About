@@ -8,7 +8,7 @@ I have been serving as a lecturer at the College of Computer Science and Enginee
 Currently, I am pursuing an MS in Computer Science at George Mason University, with a specialization in Machine Learning. My areas of interest include Data Mining, Natural Language Processing, Deep Learning, Web-based Software Engineering, and Artificial Intelligence.
 
 ### Education
-Bachelor of Science in Information Technology (with Honors), King Abdulaziz University
+Bachelor of Science in Information Technology (with Honors), King Abdulaziz University <br />
 Currently pursuing MS in Computer Science (Specializing in Machine Learning), George Mason University
 
 ### Skills
