@@ -19,8 +19,8 @@ Currently, I am pursuing an MS in Computer Science at George Mason University, w
 ,and Artificial Intelligence.
 
 ### Scholarships
-- 2014: English Language study, Cal Poly English Language Institute, funded by Ministry of Higher Education in KSA
-- 2021: MS and PhD Computer Science studies, funded by the University of Jeddah
+- 2014-2015: English Language study, Cal Poly English Language Institute, funded by Ministry of Higher Education in KSA
+- 2021-present: MS and PhD Computer Science studies, funded by the University of Jeddah
 
 ### Future Aspirations
 As I look forward to successfully completing my PhD in Computer Science, my goal is to embark on my academic career as an Assistant Professor at the esteemed University of Jeddah. I am excited to foster the growth of future technology innovators through my dedication to teaching and academic exploration. Moreover, I aspire to make significant contributions to the exciting fields of machine learning and deep learning.
