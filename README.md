@@ -3,7 +3,7 @@
 A passionate computer science professional, researcher, and educator from Jeddah, Saudi Arabia.
 
 ### Overview
-I have been serving as a lecturer at the College of Computer Science and Engineering, University of Jeddah since 2016, imparting my knowledge and passion for computer science to a new generation of tech enthusiasts. My academic background is comprehensive, ranging from a spectrum of programming languages to various aspects of IT and CS such as internet applications, databases, networks, machine learning, deep learning, NLP, data mining, AI, and software engineering.
+I have been serving as a lecturer at the College of Computer Science and Engineering, University of Jeddah since 2016, imparting my knowledge and passion for computer science to a new generation of tech enthusiasts. My academic background is ranging from a spectrum of programming languages to various aspects of IT and CS such as internet applications, databases, networks, machine learning, deep learning, NLP, data mining, AI, and software engineering.
 
 
 ### Education
